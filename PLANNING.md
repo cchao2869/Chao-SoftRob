@@ -1,4 +1,4 @@
-# 
+# RotEC (Rotational-Elastic-Claw)
 ## Chao - Robot Arm Planning Document, Engineering 3 2023/24
 ### Design Goal
 
