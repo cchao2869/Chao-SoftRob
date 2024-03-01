@@ -1,1 +1,1 @@
-# Rotational-Elastic-Claw
+# RotEC (Rotational-Elastic-Claw)
