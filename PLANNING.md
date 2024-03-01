@@ -20,6 +20,16 @@ Week 6 (April 8-12)----------: Print, assemble, test V2.
 Week 7 (April 15-19)----------: Begin CAD design of exterior arm/supplmental elements. 
 
 ### Sketches
+Initial Elastic Sketches
+![IMG_3887](https://github.com/cchao2869/Rotational-Elastic-Claw/assets/91699474/5cc6f164-006c-476e-8b7a-b315c3204697)
+
+Gear Ratio and RPM
+![IMG_3889](https://github.com/cchao2869/Rotational-Elastic-Claw/assets/91699474/61344db8-e900-4f53-9e34-002c4e5a8a66)
+
+Gear Center Distance and Section Calculations
+![IMG_3888](https://github.com/cchao2869/Rotational-Elastic-Claw/assets/91699474/4f053107-9a00-4792-bd1f-df41e984cee6)
+
+![IMG_3886](https://github.com/cchao2869/Rotational-Elastic-Claw/assets/91699474/a0cf66ff-9972-4464-9a6a-dc748dea4574)
 
 ### Pseudocode
 
