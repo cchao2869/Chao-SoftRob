@@ -1,9 +1,9 @@
 # RotEC (Rotational-Elastic-Claw)
 ## Chao - Robot Arm Planning Document, Engineering 3 2023/24
-### Design Goal
-
+### Abstract and Design Goal
+The future of robotics lies in soft grippers inspired by nature. The natural world has evolved over billons of years to create the most effective and veratile ways to grip objects. Natural grippers use three techinques in unison to seamlessly grasp a variety of objects: friction, mechanical interlocking, and adhesion. Friction is fairly intuitive; It is the resistence to motion when two surfaces are in contact. This force increases as the pressure of contact increases. For example, when a human hand grasps a pen, friction between the surface of the pen and the fingers keep the pen from slipping out of the hand. As the hand applies more pressure, the normal force between the hand and pen increases, and thus the friction increases as normal force and friction are directly proportional. Friction and mechanical interlocking work in tandem. Mechanical interlocking occurs when the physical shapes and structures of appendages interlock with the irregularities of the objects' surface. Mechanical interlocking increases the friction between the two surfaces, because the surface area of contact increases as these structures interlock. Finally, adhesion is the molecular attraction between surfaces, usually by means of Van der Waals forces (temporary dipoles with slight charges between the molecules of the interacting surfaces). Animals that exhibit this gripping mechanism usually do so by an adhesive secretion. For instance, tree frogs release a muscus from their toe pads that form a capillary adhesion to the surface they are grasping to. Animals with effective grasping techniques use the three gripping mechanisms, friction, mechanical interlocking, and adhesion, in coherence in order to grip effectively. However, most bioinspired robots fail to do so. The goal for this project is to use all three of the gripping mechanisms in unison to create an effective bioinspired end effector. 
 ### Scope
-
+This shift to "soft robotics" allows for a more seamless integration of robots into everyday human activites. Soft robots use flexibile materials that are less dangerous in human-robot interactions compared to the "hard robotics" of the past. RotEC's design was inspired by the rise in soft robotics and several bioinspired robot grippers. 
 ### Schedule
 Week 1 (Febrary 26-March 1)------------: Determine scope, finalize research on alternative robort claw designs. 
 
