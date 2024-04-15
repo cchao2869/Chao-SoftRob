@@ -43,3 +43,5 @@ Gear Center Distance and Section Calculations
 ### Bill of Materials
 
 ### Previous Design Considerations
+The inital inspiration for RotEC came from a thesis on elastic grippers used in furniture assembly by Romanishin. I was intruiged by the use of elastics, and its potential to grip delicate objects of different shapes. Further research into gripping delicate objects led me to the world of soft robotics. While I designed a gripper similar to Romanishin's in CAD, my soft robotics research opened my eyes to possibilites that would extend the application of RotEC beyond rotation. While RotEC remains focused on the reorientation of objects that is frequently disregarded and not addressed in soft robotics today, other thesises led to the addition of other functions. 
+
