@@ -1,1 +1,1 @@
-# RotEC (Rotational-Elastic-Claw)
+# Soft Robotic End Effector
