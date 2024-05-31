@@ -29,10 +29,6 @@ Fig. 4 [2]
 _Example of adhesion with capillary forces between tree frog pad and surface_
 ![image](https://github.com/cchao2869/Chao-SoftRob/assets/91699474/f2f613ae-36af-4adb-a32e-8efcf71cfac5) 
 
-
-## Related Works
-Soft robotics as well as effective grippers found in the natural world were thouroughly researched prior to the modeling process. 
-
 ## Design and Fabrication
 While the majority of soft robotics pneumatic, this is not possible with the current supplies available in the Sigma Lab. In order to create a soft robotic end effector, it was determined that a compliant mechanism would be the best way to achieve the design goal. The compliant mechanism was designed using TPU, a more flexible 3-D plastic. Effective grippers also employ  underactuation (i.e., having a higher number of degrees of freedom than the number of actuators), which makes it possible to conform to objects shapes with the constraits to movement [2]. Using underactuation and a compliant mechanism, the design was fabricated in the closed position, and is opened using on actuator that tightens strings connected to each petal. The goal is for this design to have two degrees of freedom (yaw rotation, as it is assumed that the robotic arm will provide pitch and roll), and one actuator that tightens the strings to open the petals. The first iteration of the soft gripper was a circular design shown in Figures 5-7 below, which was printed in the closed position with the least infill in order to maximize the felxibilty of the TPU material. The firstion iteration showed the limitations of this material, as it was too stiff when printing solids over 3mm in thickness. Tbe second iteration employed a hexagonal design in order to create more mobility by (see Figure 8).  
 
