@@ -1,5 +1,5 @@
 # Soft Robotic End Effector
-## Chao - Robot Arm Planning Document, Engineering 3 2023/24
+## Chao - Robot Arm, Engineering 3 2023/24
 
 ## Introduction
 The future of robotics lies in soft grippers inspired by nature. This shift to "soft robotics" allows for a more seamless integration of robots into everyday human activites. Soft robots use flexibile materials that are less dangerous in human-robot interactions compared to the "hard robotics" of the past. This design was inspired by the rise in soft robotics and several bioinspired robot grippers [1]. 
